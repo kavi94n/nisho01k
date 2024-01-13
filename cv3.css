@@ -1,0 +1,108 @@
+.fa-linkedin{
+    color: white;
+    background-color: rgba(32, 90, 157, 0.979);
+    font-size: 24px;
+    border-radius: 4px;
+    padding-left: 4px;
+    padding-top: 3.5px;
+    padding-right: 4px;
+    padding-bottom: none;
+    height: 27px;
+    cursor: pointer;
+    transition: background-colour 0.15s, colour 0.15s;
+
+}
+
+.fa-linkedin:hover{
+    color: rgba(32, 90, 157, 0.979);
+    background-color: white;
+    opacity: 0.8;
+}
+
+.fa-twitter{
+    color: white;
+    background-color: rgba(70, 114, 218, 0.979);
+    font-size: 24px;
+    border-radius: 4px;
+    padding-left: 4px;
+    padding-top: 3.5px;
+    padding-right: 4px;
+    padding-bottom: none;
+    height: 27px;
+    cursor: pointer;
+    transition: background-colour 0.15s, colour 0.15s;
+    
+
+
+}
+
+.fa-twitter:hover{
+    opacity: 0.8;
+    background-color:white;
+    color: rgba(70, 114, 218, 0.979);
+}
+    
+
+
+.fa-github{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    border-radius: 4px;
+    padding-left: 4px;
+    padding-top: 3.5px;
+    padding-right: 4px;
+    padding-bottom: none;
+    height: 27px;
+    cursor: pointer;
+    transition: background-colour 0.15s, colour 0.15s;
+    
+}
+
+.fa-github:hover{
+color:black;
+background-color: white;
+opacity: 0.8;
+}
+
+.pic{
+    border-radius: 50%;
+    cursor: zoom-out;
+}
+
+.pic:hover{
+    transform: scale(zoom-out);
+
+}
+
+.underline{
+    color: white;
+    cursor: pointer;
+
+}
+
+.underline:hover{
+    color: white;
+    transform: scale(underline);
+    
+}
+
+.pad{
+    display: flex;
+    border-right: hidden 5px white;
+
+.underline{
+    text-decoration: underline;
+    cursor: pointer;
+
+}    
+
+}
+.underline:hover{
+      text-decoration: underline;
+}
+
+.job{
+    display: flex;
+    margin-top: 0%;
+}
