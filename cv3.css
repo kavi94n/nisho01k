@@ -1,4 +1,4 @@
-g.pic{
+.pic{
     border-radius: 50%;
     cursor: zoom-out;
 }
@@ -13,7 +13,6 @@ g.pic{
 .pad{
     display: flex;
     border-right: hidden 5px white;
-
 
 
 }    
