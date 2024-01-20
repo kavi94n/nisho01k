@@ -33,11 +33,31 @@ footer a{
 }
 
 
-nav a{
+nav{
+    display: grid;
+    
+}
+   
+    
 
-    display:flex;
+nav div{
+    display: flex;
+    padding: none;
     justify-content: space-between;
     text-decoration: none;
+    
+
+}
+
+nav div span a{
+    text-decoration: none;
     color: white;
-    align-items: center;
+}
+
+nav a{
+    cursor: pointer;
+}
+
+nav a:hover{
+    text-decoration: underline;
 }
