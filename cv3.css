@@ -4,7 +4,7 @@
 }
 
 .pic:hover{
-    transform: scale(zoom-out);
+    zoom: 100%;
 
 }
 
@@ -42,7 +42,6 @@ nav{
 
 nav div{
     display: flex;
-    padding: none;
     justify-content: space-between;
     text-decoration: none;
     
